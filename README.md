@@ -29,7 +29,7 @@ This configuration has been tested on Linux. Windows is supported through the us
 
 1st you need to give the execution permission for all command in bin folder
 ```bash
-sudo chmod u+x bin/*
+sudo chmod +x bin/*
 ```
 
 ### Setup project
