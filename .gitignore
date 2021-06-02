@@ -1,0 +1,5 @@
+src/
+mysql/
+pwa-studio/
+.idea/
+.env
